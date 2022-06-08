@@ -1,5 +1,5 @@
 <?php
-//calculator_test2.php
+//divide-by-zero.php
 require_once 'simpletest/autorun.php';
 include 'Calculator.php';
 class TestOfCalculator extends UnitTestCase {
